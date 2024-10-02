@@ -1,0 +1,5 @@
+pandas
+pyodbc
+numpy
+PyQt5
+markdown
